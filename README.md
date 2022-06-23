@@ -4,11 +4,8 @@
 <h3>London</h3>
 
 <br>
-<br>
 
 <h2>Skills</h2>
-
-<br>
 
 <h3>Platforms</h3>
 
@@ -17,15 +14,11 @@
 ![k8s](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![vmware](https://img.shields.io/badge/Cloud-vmWare-informational?style=flat&logo=vmware&logoColor=white&color=2bbc8a)
 
-<br>
-
 <h3>Languages</h3>
 
 ![python](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![go](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![javascript](https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-
-<br>
 
 <h3>Tools</h3>
 
