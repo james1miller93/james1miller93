@@ -3,7 +3,7 @@
 <h3>DevOps/Systems Engineer</h3>
 <h3>London</h3>
 
-<br>
+---
 
 <h2>Skills</h2>
 
@@ -34,7 +34,7 @@
 ![ansible](https://img.shields.io/badge/Tool-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2bbc8a)
 ![puppet](https://img.shields.io/badge/Tool-Puppet-informational?style=flat&logo=puppet&logoColor=white&color=2bbc8a)
 
-<br>
+---
 
 <h2>Stats</h2>
 
