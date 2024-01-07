@@ -7,6 +7,12 @@
 
 <h2>Skills</h2>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
+  </a>
+</p>
+
 <h3>Platforms</h3>
 
 ![aws](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
